@@ -1,0 +1,406 @@
+
+.div1{
+	height: 600px;
+	width: 900px;
+	background-color: black;	
+}
+h1{
+	font-size: 80px;
+	color: white;
+    text-transform: capitalize;
+    float: right;
+    margin-top: 200px;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+p{
+	color: white;
+	font-size: 20px;
+	float: right;
+	margin-right: 80px;
+	margin-bottom: 100px;
+	text-align: justify;
+}
+img{
+	height: 400px;
+	width: 350px;
+	margin-top: 80px;
+}
+.div2{
+	height:600px;
+	width:900px;
+	background-color: white;
+}
+
+h2{
+	position: absolute;
+	font-size: 20px;
+	margin-top: 100px;
+	margin-left: 50px;	
+}
+h3{
+	position: absolute;
+	font-size: 35px;
+	color: black;
+	margin-top: 100px;
+	margin-left: 50px;
+}
+.p1{
+	color: black;
+	font-size: 18px;
+	position: absolute;
+	margin-top: 120px;
+	margin-left: 50px;
+	text-align: justify;
+}
+.img1{
+	height:350px;
+	width: 350px;
+	float: right;
+	margin-right: 50px;
+	padding-bottom: 60px;
+}
+.div3{
+	height: 600px;
+	width: 900px;
+	background-color: white;
+}
+.a{
+	height: 600px;
+	width: 450px;
+	background-color: black;
+	float: left;
+}
+.b{
+	height: 600px;
+	width: 450px;
+	background-color: lightblue;
+	float: right;
+}
+h4{
+	font-size: 25px;
+	color: white;	
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+	display: block;
+
+}
+.p2{
+	font-size: 20px;
+	color: white;
+	margin-left: 50px;
+	margin-bottom: 30px;
+
+}
+.a1{
+	height: 300px;
+	width: 400px;
+	outline: 2px white inset;
+	float: right;
+	background-image: url('images/robot3.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.b1{
+	height: 305px;
+	width: 400px;
+	outline: 2px white inset;
+	float: left;
+	margin-top: 250px;
+	margin-bottom: 5px;
+	background-image: url('images/robot4.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.div4{
+	height: 500px;
+	width: 800px;
+	margin-top: 100px;
+	background-color: white;
+}
+.c{
+	height: 350px;
+	width: 250px;
+	float: left;
+}
+.d{
+	height: 350px;
+	width: 250px;
+	float: right;
+	background-color: skyblue;
+	font-size: 19px;
+	color: black;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 5px;
+}
+.e{
+	height: 350px;
+	width: 250px;
+	background-color: white;
+	background-image: url(images/robot6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.c1{
+	height: 150px;
+	width: 250px;
+	background-color:grey;
+	margin-bottom: 10px;
+	font-size: 35px;
+	color: white;
+}
+.c2{
+	height: 200px;
+	width: 250px;
+	background-color: skyblue;
+	background-image: url(images/robot5.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.f{
+	height: 40px;
+	width: 120px;
+	position: center;
+	margin-top: 50px;
+	background-color: skyblue;
+	font-size: 15px;
+	color: black;
+}
+.div5{
+	height: 500px;
+	width: 900px;
+	background-color:grey;
+
+}
+.g{
+	height: 350px;
+	width: 250px;
+	background-color: grey;
+	float: left;
+	margin-top: 50px;
+}
+.s1{
+	font-size: 25px;
+	color: black;
+	float: left;
+	margin-left: 50px;
+	
+}
+.p3{
+	font-size: 18px;
+	color: black;
+	margin-left: 50px;
+	text-align: justify;
+
+}
+.h{
+	height: 350px;
+	width: 250px;
+	background-color: grey;
+	float: right;
+	margin-top: 50px;
+}
+.s2{
+	font-size: 25px;
+	color: black;
+	text-align: justify;
+	margin-top: 10px;
+	float: left;
+}
+.p4{
+	font-size: 18px;
+	color: black;
+	padding-top: 30px;
+
+}
+.j{
+	height: 350px;
+	width: 250px;
+	background-color: grey;
+
+}
+.s3{
+	font-size: 25px;
+	color: black;
+	text-align: left;
+	padding-top: 30px;
+}
+.p5{
+	font-size: 18px;
+	color: black;
+	text-align: justify;
+	float: center;
+}
+.div6{
+	margin-top: 50px;
+	height: 200px;
+	width: 800px;
+}
+.s4{
+	font-size: 50px;
+	color: brown;
+	float: center;
+}
+.p6{
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
+.div7{
+	height: 400px;
+	width: 800px;
+	background-color: white;
+}
+.k{
+	height: 300px;
+	width: 250px;
+	float: left;
+	background-image: url(images/robot9.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.l{
+	height: 300px;
+	width: 250px;
+	float: right;
+	background-image: url(images/robot7.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.m{
+	height: 300px;
+	width: 250px;
+	margin-top: 23px;
+	background-image: url(images/robot8.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.div8{
+	height: 500px;
+	width: 900px;
+	background-color: black;
+}
+.n{
+	height: 250px;
+	width: 300px;
+	float: left;
+	background-image: url(images/robot10.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+.o{
+	height: 200px;
+	width: 900px;
+	font-size: 18px;
+	color: white;
+	text-align: justify;
+	margin-left: 50px;
+}
+.s5{
+	font-size: 30px;
+	color: white;
+	float: right;
+}
+.div9{
+	height: 600px;
+	width: 900px;
+	background-color: skyblue;
+}
+
+.div91{ 
+	height: 500px;
+	width: 700px;
+}
+
+
+.div9a1{
+	height: 500px;
+	width: 430px;
+	background-color: white;
+	float: left;
+	margin-left: 70px;
+	margin-top: 30px;
+	background-image: url(images/robot11.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.div9a2{
+	height: 500px;
+	width: 300px;
+	background-color: lightblue;
+	float: right;
+	margin-right: 100px;
+	margin-top: 30px;
+
+}
+.s6{
+	font-size: 35px;
+	color: black;
+	text-align: left;
+}
+.p8{
+	color: black;
+	text-align: left;
+	font-size: 20px;
+	margin-left: 40px;
+}
+.div10{
+	height: 500px;
+	width: 700px;
+	background-color: white;
+}
+.div10a{
+	height: 600px;
+	width: 350px;
+	background-color: white;
+	background-image: url(images/robot12.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.div10b{
+	height: 500px;
+	width: 350px;
+	background-color: white;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	float: right;
+	font-size: 40px;
+	color: black;
+	
+
+}
+.s7{
+	margin-top: 50px;
+	font-size: 20px;
+	color: black;
+	text-align: left;
+
+
+}
+
+.p9{
+	font-size: 22px;
+	color: black;
+	margin-left: 50px;
+	text-align: justify;
+}
+.div11{
+	height: 40px;
+	width: 120px;
+	object-position: bottom;
+	margin-top: 420px;
+	font-size: 15px;
+	color: black;
+	background-color: skyblue;
+	margin-right: 140px;
+
+}
